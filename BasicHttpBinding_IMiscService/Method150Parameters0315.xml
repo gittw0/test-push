@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="3e9a5546-7bf4-4c0d-8a1c-db6ac1e04f5e" isOneWay="false" action="http://tempuri.org/IMiscService/Method150Parameters0315" name="Method150Parameters0315" bindingOperationName="Method150Parameters0315" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="3e9a5546-7bf4-4c0d-8a1c-db6ac1e04f5efileName">Method150Parameters0315</con:setting>
+  </con:settings>
+</con:operation>
