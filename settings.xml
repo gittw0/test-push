@@ -6,7 +6,7 @@
   <con:properties>
     <con:property>
       <con:name>sd</con:name>
-      <con:value>sdhj123</con:value>
+      <con:value>sdhj</con:value>
     </con:property>
   </con:properties>
   <con:wssContainer/>
